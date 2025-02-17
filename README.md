@@ -12,7 +12,7 @@ Python, Stata, MATLAB, C++, Convex
 🔹 Quantitative Finance
 🔹 Statistical Analysis
 🔹 Data Science
-🔹 AI in Finance
+🔹 ML in Finance
 
 ## 🌟 Areas of Interest  
 - 📊 **Machine Learning & Quantitative Finance** – Using data-driven techniques to enhance financial decision-making and market predictions.  
