@@ -21,6 +21,7 @@ Python, Stata, MATLAB, C++, Convex
 
 ## 📫 Let's Connect  
 I'm always interested in exploring new areas, collaborating on exciting projects and learning from others in the field. Feel free to reach out! 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lorcangourley/)   
 
 
