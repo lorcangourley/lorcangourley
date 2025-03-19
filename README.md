@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lorcan!  
 I'm currently pursuing an MSc in Finance and Data Analytics at the University of Stirling, building on a BEng in Mechatronic Engineering. My academic journey has given me a strong foundation in **applied mathematics** and **engineering**, which I’m now applying to the world of finance.  
 
-I’m deeply passionate about **quantitative finance**, **machine learning**, and **blockchain technology**—with a particular interest in how these fields intersect. I enjoy exploring **financial modeling**, **algorithmic trading**, and leveraging data analytics to solve complex problems in the finance industry.  
+I’m deeply passionate about **quantitative finance**, **machine learning**, and **blockchain technology** with a particular interest in how these fields intersect. I enjoy exploring **financial modeling**, **algorithmic trading**, and leveraging data analytics to solve complex problems in the finance industry.  
 
 I’m always excited to learn more and collaborate on projects that merge my engineering and finance backgrounds!
 
