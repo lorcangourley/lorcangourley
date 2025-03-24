@@ -24,6 +24,9 @@ I'm always interested in exploring new areas, collaborating on exciting projects
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lorcangourley/)   
 
+📊 **Check out my portfolio on eToro:**  
+
+[![eToro](https://img.shields.io/badge/eToro-Portfolio-green?style=flat&logo=etoro)](https://www.etoro.com/people/lorcangourley)
 
 <!---
 lorcangourley/lorcangourley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
